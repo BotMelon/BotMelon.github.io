@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Highschool Diploma, Fauquier High School
+* Highschool Diploma, Fauquier High School, 2023
 * (IN PROGRESS) B.S. in Electrical Engineering in Wireless Communications and Signal Processing, Virginia Tech, 2027
 
 
@@ -42,7 +42,7 @@ Skills
 Service and leadership
 ======
 * Orthodox Christian Fellowship - Service Chair
-  * Worked with five other executive members and members of Holy Trinity Greek Orthodox Church to organize both ordinary and service events, and to help our community by fundraising and public service.
+  * Worked with five other executive members and members of Holy Trinity Greek Orthodox Church   to organize both ordinary and service events, and to help our community by fundraising and public service.
 
 Coursework
 ======

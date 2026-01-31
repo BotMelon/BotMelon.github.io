@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Highschool Diploma, Fauquier High School
+* (IN PROGRESS) B.S. in Electrical Engineering in Wireless Communications and Signal Processing, Virginia Tech, 2027
+
 
 Work experience
 ======

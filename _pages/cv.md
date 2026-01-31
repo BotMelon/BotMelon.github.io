@@ -17,48 +17,50 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2025: TMEIC - IS Co-op Engineer
+  * Full Stack Development of a computer configuration tool used to adjust a crane management computer's system, network, and application settings, automatically before the computers are sent to site. 
+  * Investigation and development of an AI tool for parsing and editing of files using context-free grammar, and automatically change industrial user interfaces based on project specifications.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2025: VPT Inc. - Test Engineering Intern
+  * Planned, designed, and created an automated isolation testing system to be used in DC-DC converter production. 
+  * Used LabVIEW's dataflow programming to automate Chroma Isolation tester, and Altium to create a series of PCBs for testing different converter models in a high voltage enclosure.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summers 2020-2024: Lonely Home Realty
+  * Worked on interior and exterior renovation projects that required forward thinking and planning to avoid dangerous and irreversible mistakes.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Electrical Test Equipment, Soldering
+* Copilot Studio
+* C, C++, C#, Python, Java
+* Altium, Verilog
+* Arduino, Microcontroller Programing
+* MATLAB
+* UART, I2C, SPI
+* Microsoft 365
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Orthodox Christian Fellowship - Service Chair
+  * Worked with five other executive members and members of Holy Trinity Greek Orthodox Church to organize both ordinary and service events, and to help our community by fundraising and public service.
+
+Coursework
+======
+* Electrical Theory
+  * Electromagnetic Fields
+  * AC circuit analysis
+  * Signals and Systems
+  * Physical Electronics
+  * Circuits and Devices
+* Computer/Microcontroller Programming
+  * Embedded Systems
+  * Computational Engineering
+  * Fundamentals of Digital Systems
+* Maths and Sciences 
+  * Physics 1, Physics 2
+  * Introduction to Linear Algebra
+  * Intro Diffrential Equations
+  * Intro Multivariable Calculus
+  * Intro to Discrete Math
+  * Probability & Statistics
+  
